@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start d:/Columbia/job/Cocopage/index.html)",
+      "Bash(start d:/Columbia/job/Cocopage/solar-sponge.html)",
+      "WebFetch(domain:www.linkedin.com)",
+      "Bash(gh auth:*)",
+      "Bash(git --version)"
+    ]
+  }
+}
